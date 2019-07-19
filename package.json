@@ -1,0 +1,25 @@
+{
+  "name": "jwttest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "base64-url": "^2.2.1",
+    "body-parse": "^0.1.0",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "express": "^4.16.4",
+    "hmac": "^1.0.1",
+    "jade": "^1.11.0",
+    "kerberos": "^0.0.17",
+    "mongo": "^0.1.0",
+    "mongoose": "^5.6.3"
+  }
+}
